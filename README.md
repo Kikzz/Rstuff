@@ -8,3 +8,5 @@ And that was a secondary heading...
 * Get a life
 * Eat well
 * Sleep 
+
+And remember: If you can't do it right, enjoy doing it wrong!
